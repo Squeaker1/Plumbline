@@ -1,0 +1,17 @@
+{
+  "name": "PlumbLine Renovation & Walkthroughs",
+  "short_name": "PlumbLine",
+  "description": "Home renovation video walkthroughs, voice-to-tasks, build sequencing, and crew payouts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
